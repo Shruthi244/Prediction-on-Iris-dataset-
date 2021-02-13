@@ -8,4 +8,4 @@ Splitting the dataset
 The data has to be splitted into train_data and test_data.The decision tree classifier is built using the training data.
 The built decision tree classifier is tested using the test_data
 The performance of the model is measured using confusion matrix.
-Visualization is done using different plots
+Visualization is done using different plots.
